@@ -25,5 +25,5 @@ denenemmekgfuysha wefgadsklş rfsjdkl
 
 ## Lisence
 
-*[MIT](https://github.com/GamzeDuru/kodluyoruzilkrepo)
+**[MIT](https://github.com/GamzeDuru/kodluyoruzilkrepo)**
 
