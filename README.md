@@ -1,5 +1,6 @@
 # Kodluyoruz İlk Repo
-[Bu repo] (https://kodluyoruz.org/tr/kodluyoruz/) 
+
+[Bu repo](https://kodluyoruz.org/tr/kodluyoruz/) 
 
 ## İnstallation
 Öncelikle projeyi klonlayın.(https://github.com/GamzeDuru/kodluyoruzilkrepo)
