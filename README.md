@@ -1,8 +1,10 @@
 # Kodluyoruz İlk Repo
+# tek şarp işareti <h1> etiketi demek
 
 [Bu repo](https://kodluyoruz.org/tr/kodluyoruz/) 
 
 ## İnstallation
+## iki şarp işareti <h2> etiketi demek 
 Öncelikle projeyi klonlayın.(https://github.com/GamzeDuru/kodluyoruzilkrepo)
 
 ```
@@ -30,5 +32,14 @@ denenemmekgfuysha wefgadsklş rfsjdkl
 
 ## resim
 
-![Markdown](https://grafxflow.co.uk/storage/app/uploads/public/5ad/e5b/d9b/thumb_891_266_0_0_0_auto.png)
+![Markdown](ders1.png)
 
+### Listeleme
+-deneme1
+*deneme2
+-  * ve - aynı işlevi görür
+
+``` pyhton
+print(x)
+ 
+```
