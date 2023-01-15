@@ -43,3 +43,10 @@ denenemmekgfuysha wefgadsklş rfsjdkl
 print(x)
 
 ```
+# terminalde yapılan değşşiklikleri commit etme
+* git add. (tamamını commit etmek için)
+* git commit -m "ilk commit"
+* git push (sunucuya gönderme)
+
+# sunucudan yapılan değişikleri içeri aktarma
+* git pull
