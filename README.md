@@ -1,7 +1,7 @@
 # Kodluyoruz İlk Repo
 # tek şarp işareti <h1> etiketi demek
 
-[Bu repo](https://kodluyoruz.org/tr/kodluyoruz/) 
+[Bu repo ilk deneme](https://kodluyoruz.org/tr/kodluyoruz/) 
 
 ## İnstallation
 ## iki şarp işareti <h2> etiketi demek 
@@ -35,11 +35,11 @@ denenemmekgfuysha wefgadsklş rfsjdkl
 ![Markdown](ders1.png)
 
 ### Listeleme
--deneme1
-*deneme2
--  * ve - aynı işlevi görür
+- deneme1
+* deneme2
+-  "*" ve "-" aynı işlevi görür
 
 ``` pyhton
 print(x)
- 
+
 ```
